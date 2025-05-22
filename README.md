@@ -6,7 +6,7 @@ This project is a pixel-perfect ReactJS implementation of a mobile application i
 [Adobe XD Design Link](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
 
 ### Hosted Link: 
-[Link](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
+[Link](https://react-js-assignment-swart.vercel.app/)
 ---
 
 ## Features
